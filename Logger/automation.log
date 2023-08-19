@@ -1,0 +1,423 @@
+08/11/2023 11:36: 29 PM: INFO: I am inside before all
+08/11/2023 11:36: 29 PM: INFO: ====== WebDriver manager ======
+08/11/2023 11:36: 31 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:36: 31 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:36: 31 PM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/11/2023 11:36: 31 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:36: 31 PM: INFO: WebDriver version 115.0.5790.170 selected
+08/11/2023 11:36: 31 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/11/2023 11:36: 31 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/11/2023 11:36: 32 PM: INFO: Driver downloading response is 200
+08/11/2023 11:36: 32 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:36: 32 PM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/11/2023 11:36: 34 PM: INFO: I am inside before scenario
+08/11/2023 11:36: 34 PM: INFO: I am inside after scenario
+08/11/2023 11:40: 35 PM: INFO: I am inside before all
+08/11/2023 11:40: 35 PM: INFO: ====== WebDriver manager ======
+08/11/2023 11:40: 37 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:40: 37 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:40: 37 PM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/11/2023 11:40: 37 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:40: 37 PM: INFO: WebDriver version 115.0.5790.170 selected
+08/11/2023 11:40: 37 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/11/2023 11:40: 37 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/11/2023 11:40: 37 PM: INFO: Driver downloading response is 200
+08/11/2023 11:40: 38 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/11/2023 11:40: 38 PM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/11/2023 11:40: 39 PM: INFO: I am inside before scenario
+08/11/2023 11:40: 40 PM: INFO: Reached into when step
+08/11/2023 11:40: 40 PM: INFO: Reached into then step
+08/11/2023 11:40: 40 PM: INFO: I am inside after scenario
+08/12/2023 12:00: 18 AM: INFO: I am inside before all
+08/12/2023 12:00: 18 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:00: 20 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:00: 20 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:00: 20 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:00: 20 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:00: 20 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:00: 20 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:00: 20 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:00: 20 AM: INFO: Driver downloading response is 200
+08/12/2023 12:00: 21 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:00: 21 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:00: 22 AM: INFO: I am inside before scenario
+08/12/2023 12:00: 22 AM: INFO: I am inside after scenario
+08/12/2023 12:01: 14 AM: INFO: I am inside before all
+08/12/2023 12:01: 14 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:01: 16 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 16 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 16 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:01: 16 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 17 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:01: 17 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:01: 17 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:01: 17 AM: INFO: Driver downloading response is 200
+08/12/2023 12:01: 17 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 17 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:01: 19 AM: INFO: I am inside before scenario
+08/12/2023 12:01: 19 AM: INFO: I am inside after scenario
+08/12/2023 12:01: 21 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:01: 23 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 23 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 23 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:01: 23 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 23 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:01: 23 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:01: 23 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:01: 23 AM: INFO: Driver downloading response is 200
+08/12/2023 12:01: 24 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:01: 24 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:01: 25 AM: INFO: I am inside before scenario
+08/12/2023 12:01: 25 AM: INFO: I am inside after scenario
+08/12/2023 12:03: 08 AM: INFO: I am inside before all
+08/12/2023 12:03: 08 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:03: 10 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 10 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 10 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:03: 10 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 11 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:03: 11 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:03: 11 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:03: 11 AM: INFO: Driver downloading response is 200
+08/12/2023 12:03: 11 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 11 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:03: 13 AM: INFO: I am inside before scenario
+08/12/2023 12:03: 13 AM: INFO: I am inside after scenario
+08/12/2023 12:03: 15 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:03: 17 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 17 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 17 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:03: 17 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 17 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:03: 17 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:03: 17 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:03: 17 AM: INFO: Driver downloading response is 200
+08/12/2023 12:03: 18 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:03: 18 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:03: 19 AM: INFO: I am inside before scenario
+08/12/2023 12:03: 19 AM: INFO: I am inside after scenario
+08/12/2023 12:04: 06 AM: INFO: I am inside before all
+08/12/2023 12:04: 06 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:04: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:04: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:04: 09 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:04: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:04: 09 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:04: 09 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:04: 09 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:04: 09 AM: INFO: Driver downloading response is 200
+08/12/2023 12:04: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:04: 09 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:04: 11 AM: INFO: I am inside before scenario
+08/12/2023 12:05: 00 AM: INFO: I am inside before all
+08/12/2023 12:05: 00 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:05: 03 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 03 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 03 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:05: 03 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 03 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:05: 03 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:05: 03 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:05: 03 AM: INFO: Driver downloading response is 200
+08/12/2023 12:05: 04 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 04 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:05: 05 AM: INFO: I am inside before scenario
+08/12/2023 12:05: 06 AM: INFO: I am inside after scenario
+08/12/2023 12:05: 06 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:05: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 09 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:05: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 09 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:05: 09 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:05: 09 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:05: 09 AM: INFO: Driver downloading response is 200
+08/12/2023 12:05: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:05: 09 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:05: 10 AM: INFO: I am inside before scenario
+08/12/2023 12:05: 12 AM: INFO: I am inside after scenario
+08/12/2023 12:06: 37 AM: INFO: I am inside before all
+08/12/2023 12:06: 37 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:06: 39 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 39 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 39 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:06: 39 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 39 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:06: 39 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:06: 39 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:06: 39 AM: INFO: Driver downloading response is 200
+08/12/2023 12:06: 40 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 40 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:06: 41 AM: INFO: I am inside before scenario
+08/12/2023 12:06: 42 AM: INFO: I am inside after scenario
+08/12/2023 12:06: 42 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:06: 45 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 45 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 45 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:06: 45 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 45 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:06: 45 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:06: 45 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:06: 45 AM: INFO: Driver downloading response is 200
+08/12/2023 12:06: 45 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:06: 45 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:06: 47 AM: INFO: I am inside before scenario
+08/12/2023 12:06: 47 AM: INFO: I am inside after scenario
+08/12/2023 12:09: 36 AM: INFO: I am inside before all
+08/12/2023 12:09: 36 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:09: 38 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 38 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 38 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:09: 38 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 38 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:09: 38 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:09: 38 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:09: 39 AM: INFO: Driver downloading response is 200
+08/12/2023 12:09: 39 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 39 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:09: 40 AM: INFO: I am inside before scenario
+08/12/2023 12:09: 41 AM: INFO: I am inside after scenario
+08/12/2023 12:09: 41 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:09: 44 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 44 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 44 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:09: 44 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 44 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:09: 44 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:09: 44 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:09: 44 AM: INFO: Driver downloading response is 200
+08/12/2023 12:09: 44 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:09: 44 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:09: 45 AM: INFO: I am inside before scenario
+08/12/2023 12:09: 46 AM: INFO: I am inside after scenario
+08/12/2023 12:12: 06 AM: INFO: I am inside before all
+08/12/2023 12:12: 06 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:12: 08 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 08 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 08 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:12: 08 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 08 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:12: 08 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 08 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 08 AM: INFO: Driver downloading response is 200
+08/12/2023 12:12: 09 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 09 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:12: 10 AM: INFO: I am inside before scenario
+08/12/2023 12:12: 11 AM: INFO: I am inside after scenario
+08/12/2023 12:12: 11 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:12: 14 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 14 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 14 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:12: 14 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 14 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:12: 14 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 14 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 14 AM: INFO: Driver downloading response is 200
+08/12/2023 12:12: 15 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 15 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:12: 16 AM: INFO: I am inside before scenario
+08/12/2023 12:12: 17 AM: INFO: I am inside after scenario
+08/12/2023 12:12: 49 AM: INFO: I am inside before all
+08/12/2023 12:12: 49 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:12: 51 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 51 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 51 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:12: 51 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 51 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:12: 51 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 51 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 52 AM: INFO: Driver downloading response is 200
+08/12/2023 12:12: 52 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 52 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:12: 54 AM: INFO: I am inside before scenario
+08/12/2023 12:12: 54 AM: INFO: I am inside after scenario
+08/12/2023 12:12: 54 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:12: 57 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 57 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 57 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:12: 57 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 57 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:12: 57 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 57 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:12: 57 AM: INFO: Driver downloading response is 200
+08/12/2023 12:12: 58 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:12: 58 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:12: 59 AM: INFO: I am inside before scenario
+08/12/2023 12:13: 00 AM: INFO: I am inside after scenario
+08/12/2023 12:13: 14 AM: INFO: I am inside before all
+08/12/2023 12:13: 14 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:13: 16 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 16 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 16 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:13: 16 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 16 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:13: 16 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:13: 16 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:13: 16 AM: INFO: Driver downloading response is 200
+08/12/2023 12:13: 17 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 17 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:13: 18 AM: INFO: I am inside before scenario
+08/12/2023 12:13: 19 AM: INFO: I am inside after scenario
+08/12/2023 12:13: 19 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:13: 22 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 22 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 22 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:13: 22 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 22 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:13: 22 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:13: 22 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:13: 22 AM: INFO: Driver downloading response is 200
+08/12/2023 12:13: 22 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 22 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:13: 24 AM: INFO: I am inside before scenario
+08/12/2023 12:13: 24 AM: INFO: I am inside after scenario
+08/12/2023 12:13: 46 AM: INFO: I am inside before all
+08/12/2023 12:13: 46 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:13: 49 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 49 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 49 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:13: 49 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 49 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:13: 49 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:13: 49 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:13: 49 AM: INFO: Driver downloading response is 200
+08/12/2023 12:13: 50 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:13: 50 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:13: 51 AM: INFO: I am inside before scenario
+08/12/2023 12:15: 44 AM: INFO: I am inside after scenario
+08/12/2023 12:15: 56 AM: INFO: I am inside before all
+08/12/2023 12:15: 56 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:15: 58 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:15: 58 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:15: 58 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:15: 58 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:15: 58 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:15: 58 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:15: 58 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:15: 58 AM: INFO: Driver downloading response is 200
+08/12/2023 12:15: 59 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:15: 59 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:16: 00 AM: INFO: I am inside before scenario
+08/12/2023 12:16: 46 AM: INFO: I am inside after scenario
+08/12/2023 12:16: 53 AM: INFO: I am inside before all
+08/12/2023 12:16: 53 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:16: 56 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:16: 56 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:16: 56 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:16: 56 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:16: 56 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:16: 56 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:16: 56 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:16: 56 AM: INFO: Driver downloading response is 200
+08/12/2023 12:16: 57 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:16: 57 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:16: 58 AM: INFO: I am inside before scenario
+08/12/2023 12:17: 02 AM: INFO: Reached into when step
+08/12/2023 12:17: 02 AM: INFO: Reached into then step
+08/12/2023 12:17: 02 AM: INFO: I am inside after scenario
+08/12/2023 12:17: 04 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:17: 07 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 07 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 07 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:17: 07 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 07 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:17: 07 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:17: 07 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:17: 07 AM: INFO: Driver downloading response is 200
+08/12/2023 12:17: 07 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 07 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:17: 09 AM: INFO: I am inside before scenario
+08/12/2023 12:17: 14 AM: INFO: Reached into when step
+08/12/2023 12:17: 14 AM: INFO: Reached into then step
+08/12/2023 12:17: 14 AM: INFO: I am inside after scenario
+08/12/2023 12:17: 49 AM: INFO: I am inside before all
+08/12/2023 12:17: 49 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:17: 51 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 51 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 51 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:17: 51 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 51 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:17: 51 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:17: 51 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:17: 52 AM: INFO: Driver downloading response is 200
+08/12/2023 12:17: 52 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:17: 52 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:17: 54 AM: INFO: I am inside before scenario
+08/12/2023 12:17: 58 AM: INFO: Reached into when step
+08/12/2023 12:17: 58 AM: INFO: Reached into then step
+08/12/2023 12:17: 58 AM: INFO: I am inside after scenario
+08/12/2023 12:18: 00 AM: INFO: ====== WebDriver manager ======
+08/12/2023 12:18: 02 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:18: 02 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:18: 02 AM: INFO: There is no [win64] chromedriver "115.0.5790.171" for browser google-chrome "115.0.5790.171" in cache
+08/12/2023 12:18: 02 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:18: 02 AM: INFO: WebDriver version 115.0.5790.170 selected
+08/12/2023 12:18: 02 AM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:18: 02 AM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/115.0.5790.170/win32/chromedriver-win32.zip
+08/12/2023 12:18: 03 AM: INFO: Driver downloading response is 200
+08/12/2023 12:18: 04 AM: INFO: Get LATEST chromedriver version for google-chrome
+08/12/2023 12:18: 04 AM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\115.0.5790.171]
+08/12/2023 12:18: 05 AM: INFO: I am inside before scenario
+08/12/2023 12:18: 10 AM: INFO: Reached into when step
+08/12/2023 12:18: 10 AM: INFO: Reached into then step
+08/12/2023 12:18: 10 AM: INFO: I am inside after scenario
+08/19/2023 02:28: 56 PM: INFO: I am inside before all
+08/19/2023 02:28: 56 PM: INFO: ====== WebDriver manager ======
+08/19/2023 02:28: 57 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:28: 57 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:28: 57 PM: INFO: There is no [win64] chromedriver "116.0.5845.96" for browser google-chrome "116.0.5845.96" in cache
+08/19/2023 02:28: 57 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:28: 57 PM: INFO: WebDriver version 116.0.5845.96 selected
+08/19/2023 02:28: 57 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:28: 57 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:28: 57 PM: INFO: Driver downloading response is 200
+08/19/2023 02:28: 58 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:28: 58 PM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\116.0.5845.96]
+08/19/2023 02:29: 00 PM: INFO: I am inside before scenario
+08/19/2023 02:29: 03 PM: INFO: Reached into when step
+08/19/2023 02:29: 03 PM: INFO: Reached into then step
+08/19/2023 02:29: 03 PM: INFO: I am inside after scenario
+08/19/2023 02:29: 06 PM: INFO: ====== WebDriver manager ======
+08/19/2023 02:29: 07 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:29: 07 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:29: 07 PM: INFO: There is no [win64] chromedriver "116.0.5845.96" for browser google-chrome "116.0.5845.96" in cache
+08/19/2023 02:29: 07 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:29: 07 PM: INFO: WebDriver version 116.0.5845.96 selected
+08/19/2023 02:29: 07 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:29: 07 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:29: 07 PM: INFO: Driver downloading response is 200
+08/19/2023 02:29: 08 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:29: 08 PM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\116.0.5845.96]
+08/19/2023 02:29: 09 PM: INFO: I am inside before scenario
+08/19/2023 02:29: 14 PM: INFO: Reached into when step
+08/19/2023 02:29: 14 PM: INFO: Reached into then step
+08/19/2023 02:29: 14 PM: INFO: I am inside after scenario
+08/19/2023 02:41: 58 PM: INFO: I am inside before all
+08/19/2023 02:41: 58 PM: INFO: ====== WebDriver manager ======
+08/19/2023 02:41: 59 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:41: 59 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:41: 59 PM: INFO: There is no [win64] chromedriver "116.0.5845.96" for browser google-chrome "116.0.5845.96" in cache
+08/19/2023 02:41: 59 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:41: 59 PM: INFO: WebDriver version 116.0.5845.96 selected
+08/19/2023 02:41: 59 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:41: 59 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:42: 00 PM: INFO: Driver downloading response is 200
+08/19/2023 02:42: 00 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:42: 01 PM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\116.0.5845.96]
+08/19/2023 02:42: 02 PM: INFO: I am inside before scenario
+08/19/2023 02:42: 07 PM: INFO: Reached into when step
+08/19/2023 02:42: 07 PM: INFO: I am inside after scenario
+08/19/2023 02:42: 09 PM: INFO: ====== WebDriver manager ======
+08/19/2023 02:42: 10 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:42: 10 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:42: 10 PM: INFO: There is no [win64] chromedriver "116.0.5845.96" for browser google-chrome "116.0.5845.96" in cache
+08/19/2023 02:42: 10 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:42: 10 PM: INFO: WebDriver version 116.0.5845.96 selected
+08/19/2023 02:42: 10 PM: INFO: Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:42: 10 PM: INFO: About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+08/19/2023 02:42: 10 PM: INFO: Driver downloading response is 200
+08/19/2023 02:42: 11 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/19/2023 02:42: 11 PM: INFO: Driver has been saved in cache [C:\Users\sanat\.wdm\drivers\chromedriver\win64\116.0.5845.96]
+08/19/2023 02:42: 12 PM: INFO: I am inside before scenario
+08/19/2023 02:42: 17 PM: INFO: Reached into when step
+08/19/2023 02:42: 17 PM: INFO: I am inside after scenario
