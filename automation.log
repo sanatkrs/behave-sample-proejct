@@ -1,0 +1,86 @@
+08/11/2023 09:35: 34 PM: INFO: I am inside before all
+08/11/2023 09:35: 34 PM: INFO: I am inside before scenario
+08/11/2023 09:35: 34 PM: INFO: I am inside after scenario
+08/11/2023 09:39: 27 PM: INFO: I am inside before all
+08/11/2023 09:39: 27 PM: INFO: I am inside before scenario
+08/11/2023 09:39: 27 PM: ERROR: Exception occurred: 'Context' object has no attribute 'driver'
+08/11/2023 09:39: 27 PM: INFO: I am inside after scenario
+08/11/2023 09:40: 33 PM: INFO: I am inside before all
+08/11/2023 09:40: 33 PM: INFO: I am inside before scenario
+08/11/2023 09:40: 33 PM: INFO: I am inside after scenario
+08/11/2023 09:45: 33 PM: INFO: I am inside before all
+08/11/2023 09:45: 33 PM: INFO: I am inside before scenario
+08/11/2023 09:45: 33 PM: INFO: Reached into when step
+08/11/2023 09:45: 33 PM: INFO: Reached into then step
+08/11/2023 09:45: 33 PM: INFO: I am inside after scenario
+08/11/2023 09:46: 11 PM: INFO: I am inside before all
+08/11/2023 09:46: 11 PM: INFO: I am inside before scenario
+08/11/2023 09:46: 11 PM: INFO: Reached into when step
+08/11/2023 09:46: 11 PM: INFO: Reached into then step
+08/11/2023 09:46: 11 PM: INFO: I am inside after scenario
+08/11/2023 09:46: 46 PM: INFO: I am inside before all
+08/11/2023 09:46: 46 PM: INFO: I am inside before scenario
+08/11/2023 09:46: 46 PM: INFO: Reached into when step
+08/11/2023 09:46: 46 PM: INFO: Reached into then step
+08/11/2023 09:46: 46 PM: INFO: I am inside after scenario
+08/11/2023 09:50: 07 PM: INFO: I am inside before all
+08/11/2023 09:50: 07 PM: INFO: I am inside before scenario
+08/11/2023 09:50: 07 PM: INFO: Reached into when step
+08/11/2023 09:50: 07 PM: INFO: Reached into then step
+08/11/2023 09:50: 07 PM: INFO: I am inside after scenario
+08/11/2023 10:00: 59 PM: INFO: dfsdfsdfsd
+08/11/2023 10:00: 59 PM: INFO: I am inside before all
+08/11/2023 10:00: 59 PM: INFO: dfsdfsdfsd
+08/11/2023 10:00: 59 PM: INFO: I am inside before scenario
+08/11/2023 10:00: 59 PM: INFO: dfsdfsdfsd
+08/11/2023 10:00: 59 PM: INFO: Reached into when step
+08/11/2023 10:00: 59 PM: INFO: dfsdfsdfsd
+08/11/2023 10:00: 59 PM: INFO: Reached into then step
+08/11/2023 10:00: 59 PM: INFO: dfsdfsdfsd
+08/11/2023 10:00: 59 PM: INFO: I am inside after scenario
+08/11/2023 10:02: 25 PM: INFO: dfsdfsdfsd
+08/11/2023 10:02: 25 PM: INFO: I am inside before all
+08/11/2023 10:02: 25 PM: INFO: dfsdfsdfsd
+08/11/2023 10:02: 25 PM: INFO: I am inside before scenario
+08/11/2023 10:02: 25 PM: INFO: dfsdfsdfsd
+08/11/2023 10:02: 25 PM: INFO: Reached into when step
+08/11/2023 10:02: 25 PM: INFO: dfsdfsdfsd
+08/11/2023 10:02: 25 PM: INFO: Reached into then step
+08/11/2023 10:02: 25 PM: INFO: dfsdfsdfsd
+08/11/2023 10:02: 25 PM: INFO: I am inside after scenario
+08/11/2023 10:03: 01 PM: INFO: dfsdfsdfsd
+08/11/2023 10:03: 01 PM: INFO: I am inside before all
+08/11/2023 10:03: 01 PM: INFO: dfsdfsdfsd
+08/11/2023 10:03: 01 PM: INFO: I am inside before scenario
+08/11/2023 10:03: 01 PM: INFO: dfsdfsdfsd
+08/11/2023 10:03: 01 PM: INFO: Reached into when step
+08/11/2023 10:03: 01 PM: INFO: dfsdfsdfsd
+08/11/2023 10:03: 01 PM: INFO: Reached into then step
+08/11/2023 10:03: 01 PM: INFO: dfsdfsdfsd
+08/11/2023 10:03: 01 PM: INFO: I am inside after scenario
+08/11/2023 10:23: 43 PM: INFO: I am inside before all
+08/11/2023 10:23: 43 PM: INFO: I am inside before scenario
+08/11/2023 10:23: 43 PM: INFO: Reached into when step
+08/11/2023 10:23: 43 PM: INFO: Reached into then step
+08/11/2023 10:23: 43 PM: INFO: I am inside after scenario
+08/11/2023 10:34: 45 PM: INFO: I am inside before all
+08/11/2023 10:34: 45 PM: INFO: I am inside before scenario
+08/11/2023 10:34: 45 PM: INFO: Reached into when step
+08/11/2023 10:34: 45 PM: INFO: Reached into then step
+08/11/2023 10:34: 45 PM: INFO: I am inside after scenario
+08/11/2023 10:35: 06 PM: INFO: I am inside before all
+08/11/2023 10:35: 06 PM: INFO: I am inside before scenario
+08/11/2023 10:35: 06 PM: INFO: Reached into when step
+08/11/2023 10:35: 06 PM: INFO: Reached into then step
+08/11/2023 10:35: 06 PM: INFO: I am inside after scenario
+08/11/2023 10:40: 57 PM: INFO: I am inside before all
+08/11/2023 10:40: 57 PM: INFO: I am inside before scenario
+08/11/2023 10:40: 57 PM: INFO: Reached into when step
+08/11/2023 10:40: 57 PM: INFO: Reached into then step
+08/11/2023 10:40: 57 PM: INFO: I am inside after scenario
+08/11/2023 10:45: 37 PM: INFO: I am inside before all
+08/11/2023 10:45: 37 PM: INFO: I am inside before scenario
+08/11/2023 10:45: 37 PM: INFO: I am inside Given Method
+08/11/2023 10:45: 37 PM: INFO: Reached into when step
+08/11/2023 10:45: 37 PM: INFO: Reached into then step
+08/11/2023 10:45: 37 PM: INFO: I am inside after scenario
